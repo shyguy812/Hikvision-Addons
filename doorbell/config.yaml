@@ -8,6 +8,7 @@ arch:
 - amd64
 - i386
 - aarch64
+- armv7
 stage: stable
 startup: application
 boot: auto
